@@ -1,4 +1,4 @@
-<h1 align="center">LetMeaAsk :speech_balloon:</h1>
+<h1 align="center">LetMeAsk :speech_balloon:</h1>
 
 <p align="center">  
 Letmeask is perfect for content creators to be able to create Q&A rooms with their audience, in a very organized and democratic way.
